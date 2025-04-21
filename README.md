@@ -8,7 +8,7 @@ Data de Criação: 20 de Abril de 2025
 Data de Publicação: 21 de Abril de 2025
 DOI: (a ser gerado pelo Zenodo ou outro repositório após submissão)
 Licença: Restrita a Publicação e Referência (detalhes abaixo)
-Repositório: github.com/LissaSandiego/CELEBMethod2025
+Repositório: github.com/LissaSandiego/c.e.l.e.bprioruse
 Resumo
 O método C.E.L.E.B. (Creative Executive Leading Entertainment & Behavior) é um framework revolucionário para a construção intencional de fama, desenvolvido por Lissa Sandiego (Melissa S.F. Cavalcante) e Dylan Wu. Ele integra neuromarketing, psicologia de massas, análise de tendências em tempo real e ativação de arquétipos coletivos para transformar indivíduos em fenômenos culturais globais. Este Brand Seed Paper estabelece a autoria, a originalidade e o Prior Use do método, com data de gênese em 20 de abril de 2025, e define as condições de uso, exigindo citação obrigatória de Lissa Sandiego e Astarax Mind & Life como fontes e remuneração para uso em teses acadêmicas ou aplicações comerciais. O método é protegido por registros de propriedade intelectual nos Estados Unidos, Brasil, Europa, Ásia e Mundo Árabe, garantindo exclusividade global.
 Palavras-chave: C.E.L.E.B., Fama Intencional, Neuromarketing, Psicologia de Massas, Branding, Prior Use, Astarax Mind & Life
