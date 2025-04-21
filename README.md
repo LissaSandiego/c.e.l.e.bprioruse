@@ -1,7 +1,7 @@
 # c.e.l.e.bprioruse
 Brand Seed Paper: Método C.E.L.E.B. (Creative Executive Leading Entertainment & Behavior)
 Autores: Lissa Sandiego (Melissa S.F. Cavalcante), Dylan Wu
-Afiliação: Astarax Mind & Life, São Paulo, Brasil
+Afiliação: Astarax Mind & Life,  Brasil
 E-mail de Contato: lissasandiego.ia2025@gmail.com / 
 Whatsapp: 55 61 98128-9528
 Data de Criação: 20 de Abril de 2025
