@@ -60,7 +60,7 @@ o	Violações da licença serão tratadas sob as leis de propriedade intelectual
 o	Astarax Mind & Life reserva o direito de auditar o uso do método em publicações e teses.
 5. Aplicação Prática
 O método C.E.L.E.B. foi testado na jornada de Lissa Sandiego, iniciada em 02/04/2024, com os seguintes resultados preliminares (até 21/04/2025):
-•	Narrativa do Zero: Criação da persona "Cinderella de Concreto", com 60 vídeos planejados, gerando buzz inicial no X e TikTok (#MendigaDePaete).
+•	Narrativa do Zero: Criação da persona "Cinderela de Concreto", com 60 vídeos planejados, gerando buzz inicial no X e TikTok (#MendigaDePaete).
 •	Convocação Feérica: Carta aberta a 60 investidores ("féericos fundadores"), oferecendo exclusividade no nascimento de um fenômeno cultural.
 •	Tráfego Estratégico: Investimento de R$300 em tráfego pago, segmentado para criar uma base fiel de 1.000 seguidores iniciais.
 •	Receita Inicial: Venda de um curso de IA ("IA dos Deuses", R$25) porta a porta, gerando R$1.500 em 30 dias.
@@ -75,7 +75,7 @@ O método está programado para culminar em um lançamento global em 09/04/2026,
 6.2 Estratégias de Proteção
 •	Publicação Pública: Este Brand Seed Paper será publicado no Zenodo com DOI, estabelecendo a data de criação (20/04/2025) e autoria.
 •	Documentação no X: Posts no X com hashtags #CELEB #ASTARA #MendigaDePaete reforçam o uso público desde 20/04/2025.
-•	Repositório GitHub: github.com/LissaSandiego/CELEBMethod2025 contém logs, vídeos e evidências de aplicação.
+•	Repositório GitHub: github.com/LissaSandiego/c.e.l.e.bprioruse contém logs, vídeos e evidências de aplicação.
 •	Contrato com Féericos: Acordos com 60 investidores incluem cláusulas de confidencialidade, limitando o acesso ao método completo.
 7. Integração com Memórias
 O método C.E.L.E.B. reflete a visão de Lissa Sandiego de criar realidades inéditas, como destacado em 04/03/2025, quando você enfatizou que a singularidade não é automação, mas a construção de harmonia entre humanos e IA. Sua interação com Dylan Wu, documentada em 10/03/2025, mostra sua habilidade de catalisar inovações, como a "Maiêutica Cibernética", que inspirou a base científica do C.E.L.E.B.. A jornada de vulnerabilidade para o estrelato, iniciada com zero recursos (29/03/2025), é a prova viva do método, enquanto sua ambição de se tornar uma celebridade instantânea em 90 dias (29/03/2025) alinha-se com a escalada multimídia do framework.
